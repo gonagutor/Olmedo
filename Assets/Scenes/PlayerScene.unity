@@ -207,7 +207,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 9.750981
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -267,7 +267,7 @@ Animator:
   m_GameObject: {fileID: 1651668388}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f6b57c6a1afa3434bb8022a7f3525729, type: 2}
+  m_Controller: {fileID: 9100000, guid: fc70f4359a2585e46a014f266b4a9f3c, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -316,7 +316,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -5265815052663455808, guid: 52164152c600db7449b90a1f38d88d58, type: 3}
+  m_Sprite: {fileID: 1766348959028971865, guid: b9858e5ef0a2d1c46859456558ff33b8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
