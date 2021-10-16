@@ -38,7 +38,7 @@ public class CharacterGenerator : MonoBehaviour
 
         mixedTexture.filterMode = FilterMode.Point;
         mixedTexture.Apply();
-        // Index every 
+        // Index every
         for (int y = 0; y < Mathf.Floor(mixedTexture.height / size.y); y++)
             for (int x = 0; x < Mathf.Floor(mixedTexture.width / size.x); x++) {
                 if (!IsTransparent(mixedTexture, new Rect(new Vector2(x * size.x, y * size.y - 32), size)))
@@ -57,7 +57,7 @@ public class CharacterGenerator : MonoBehaviour
 
     private void Update()
     {
-        applyTo.sprite = finalSprites[selectedIndex];
+       applyTo.sprite = finalSprites[selectedIndex];
     }
 
     bool IsTransparent(Texture2D tex, Rect rect)
