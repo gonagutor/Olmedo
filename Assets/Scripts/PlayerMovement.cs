@@ -5,15 +5,25 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public Animator animator;
+    public float runSpeed = 7.5f;
 
-    public Rigidbody2D rb;
+    private Animator animator;
+    private Rigidbody2D rb;
+    private Vector2 movement;
 
-    Vector2 movement;
-    // Update is called once per frame
+    private bool run;
+
+    void Start()
+    {
+        animator = this.GetComponent<Animator>();
+        rb = this.GetComponent<Rigidbody2D>();
+    }
+
     void Update()
     {
         //Input
+
+        run = Input.GetKey(KeyCode.LeftShift);
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
@@ -32,6 +42,9 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         // Movement
+        if (run)
+            moveSpeed = runSpeed;
+        else moveSpeed = 5f;
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }
