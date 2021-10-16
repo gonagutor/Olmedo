@@ -247,9 +247,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1651668391}
   - component: {fileID: 1651668390}
-  - component: {fileID: 1651668389}
   - component: {fileID: 1651668393}
   - component: {fileID: 1651668392}
+  - component: {fileID: 1651668389}
   m_Layer: 0
   m_Name: Sprite
   m_TagString: Untagged
@@ -354,6 +354,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  animator: {fileID: 1651668389}
   rb: {fileID: 1651668393}
 --- !u!50 &1651668393
 Rigidbody2D:
