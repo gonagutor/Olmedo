@@ -11,9 +11,15 @@ public class NPCScript : MonoBehaviour
     public float nextWaypointDistance = 3f;
     public float fallRecoveryTime = 1f;
     public LayerMask shouldFallWhenInFront;
+    [Header("Impostor")]
+    public bool isImpostor = false;
+    public float fakeFallProbability = 10f;
+    [Header("Audios")]
+    public AudioClip[] audioClips;
 
     private Seeker seeker;
     private Rigidbody2D rb;
+    private AudioSource audioSource;
 
     private Vector2 destination;
     private Path path;
@@ -25,6 +31,7 @@ public class NPCScript : MonoBehaviour
     {
         seeker = this.GetComponent<Seeker>();
         rb = this.GetComponent<Rigidbody2D>();
+        audioSource = this.GetComponent<AudioSource>();
 
         InvokeRepeating("UpdatePath", 0f, waitTime);
     }
@@ -63,11 +70,20 @@ public class NPCScript : MonoBehaviour
         Vector2 force = direction * speed * Time.deltaTime;
 
         Debug.DrawRay(rb.position, direction, Color.red, 0f);
-        if (Physics2D.Raycast(rb.position, direction, 1f))
+        if (Physics2D.Raycast(rb.position, direction, 1f, shouldFallWhenInFront))
         {
-            Invoke("HandleFallRecovery", 1f);
-
-            return;
+            if (!isImpostor)
+            {
+                Fall();
+                return;
+            } else {
+                bool shouldFakeFall = Random.Range(-1 * (fakeFallProbability - 2), 1) == 1;
+                if (shouldFakeFall)
+                {
+                    Fall();
+                    return;
+                }
+            }
         }
         rb.AddForce(force);
 
@@ -77,6 +93,13 @@ public class NPCScript : MonoBehaviour
         {
             currentWayPoint++;
         }
+    }
+
+    void Fall() {
+        audioSource.clip = audioClips[Random.Range(0, audioClips.Length - 1)];
+        audioSource.Play();
+        Invoke("HandleFallRecovery", fallRecoveryTime);
+        hasFallen = true;
     }
 
     void HandleFallRecovery() {
