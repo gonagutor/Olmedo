@@ -21,7 +21,8 @@ public class MainMenu : MonoBehaviour
     }
     public void Juego()
     {
-        SceneManager.LoadScene("Maps");
+        mainMenuCanvas.SetActive(true);
+        SceneManager.LoadScene("LoadingSceneLevel");
     }
 
     public void CanvasCreditos()

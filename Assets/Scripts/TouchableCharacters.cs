@@ -21,16 +21,13 @@ public class TouchableCharacters : MonoBehaviour
         }
         else
         {
-            maxLives--;
-            if (maxLives < 1) {
-                loseStateCanvas.SetActive(true);
-                gameObject.SetActive(false);
-            }
+            loseStateCanvas.SetActive(true);
+            gameObject.SetActive(false);
         }
     }
 
     public void ChangeScene() {
-        SceneManager.LoadScene("WerlcomePlayerScene");
+        SceneManager.LoadScene("GameToMainMenu");
     }
 
     // Update is called once per frame
