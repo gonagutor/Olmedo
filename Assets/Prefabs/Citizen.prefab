@@ -641,7 +641,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -737,14 +737,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8321618dc149134f8d8da34d22cb3e9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maximumRadius: 5
+  maximumRadius: 30
   waitTime: 0.5
   speed: 200
   nextWaypointDistance: 1
+  desistTime: 500
   fallRecoveryTime: 1
-  shouldFallWhenInFront:
+  shouldFallWhenIn:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 3840
   isImpostor: 0
   fakeFallProbability: 2
   audioClips:
@@ -753,3 +754,4 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 6b35577b6b4573148abc9462aae77300, type: 3}
   - {fileID: 8300000, guid: 4147e116f28f7f04e8709f0c0fd4399b, type: 3}
   - {fileID: 8300000, guid: 9408c4c2336431947aa3768ccbe19509, type: 3}
+  showDebugMessages: 0
