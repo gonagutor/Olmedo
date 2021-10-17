@@ -2241,7 +2241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 884354065862583116, guid: b28621d6b123e924ab906157b4f4e7ea, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.83
+      value: -0.08
       objectReference: {fileID: 0}
     - target: {fileID: 884354065862583116, guid: b28621d6b123e924ab906157b4f4e7ea, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2279,10 +2279,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Citizen (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 884354065862583123, guid: b28621d6b123e924ab906157b4f4e7ea, type: 3}
-      propertyPath: target
-      value: 
-      objectReference: {fileID: 260506456}
+    - target: {fileID: 5882306893172977845, guid: b28621d6b123e924ab906157b4f4e7ea, type: 3}
+      propertyPath: waitTime
+      value: 0.5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b28621d6b123e924ab906157b4f4e7ea, type: 3}
 --- !u!1001 &4023169112676048592
