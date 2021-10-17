@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+    public GameObject mainMenuCanvas;
+    public GameObject creditosCanvas;
+    public GameObject ComoJugarCanvas;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,8 +19,25 @@ public class MainMenu : MonoBehaviour
     {
 
     }
-    public void EscenaJuego()
+    public void Juego()
     {
         SceneManager.LoadScene("Juego");
+    }
+
+    public void CanvasCreditos()
+    {
+        creditosCanvas.SetActive(true);
+        mainMenuCanvas.SetActive(false);
+    }
+    public void CanvasComoJugar()
+    {
+        ComoJugarCanvas.SetActive(true);
+        mainMenuCanvas.SetActive(false);
+    }
+
+    public void CanvasMainMenu()
+    {
+        mainMenuCanvas.SetActive(true);
+        creditosCanvas.SetActive(false);
     }
 }
