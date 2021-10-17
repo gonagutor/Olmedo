@@ -789,9 +789,10 @@ MonoBehaviour:
   isImpostor: 0
   fakeFallProbability: 2
   audioClips:
-  - {fileID: 8300000, guid: 78d73c1b0194cad48bf6bfc760d2f412, type: 3}
-  - {fileID: 8300000, guid: 94e262764b1dc3f408c2a2dd970dc66a, type: 3}
-  - {fileID: 8300000, guid: 6b35577b6b4573148abc9462aae77300, type: 3}
-  - {fileID: 8300000, guid: 4147e116f28f7f04e8709f0c0fd4399b, type: 3}
-  - {fileID: 8300000, guid: 9408c4c2336431947aa3768ccbe19509, type: 3}
+  - {fileID: 8300000, guid: 032a4f39620b7994aa36483d2e211ff1, type: 3}
+  - {fileID: 8300000, guid: 9e4c5f2327fc67c49ac5c94471e3107a, type: 3}
+  - {fileID: 8300000, guid: b3266b78b59e8f348a9e503484cf6e02, type: 3}
+  - {fileID: 8300000, guid: bff7b8d254e16dd46bd9b8e56d65fa49, type: 3}
+  - {fileID: 8300000, guid: effc0d496f2c4e144a91033290aefb66, type: 3}
+  - {fileID: 8300000, guid: effc0d496f2c4e144a91033290aefb66, type: 3}
   showDebugMessages: 0
