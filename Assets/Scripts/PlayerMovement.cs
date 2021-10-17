@@ -5,18 +5,19 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float runSpeed = 7.5f;
+    public float runSpeed = 17.5f;
 
     private Animator animator;
     private Rigidbody2D rb;
     private Vector2 movement;
 
     private bool run;
-
+    private float internalSpeed;
     void Start()
     {
         animator = this.GetComponent<Animator>();
         rb = this.GetComponent<Rigidbody2D>();
+        internalSpeed = moveSpeed;
     }
 
     void Update()
@@ -43,8 +44,10 @@ public class PlayerMovement : MonoBehaviour
     {
         // Movement
         if (run)
-            moveSpeed = runSpeed;
-        else moveSpeed = 5f;
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+            internalSpeed = runSpeed;
+        else
+            internalSpeed = moveSpeed;;
+
+        rb.MovePosition(rb.position + movement * internalSpeed * Time.fixedDeltaTime);
     }
 }
