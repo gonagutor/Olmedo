@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     private bool run;
     private float internalSpeed;
-    private AudioSource audio;
+    private new AudioSource audio;
 
     void Start()
     {
@@ -21,6 +21,7 @@ public class PlayerMovement : MonoBehaviour
         rb = this.GetComponent<Rigidbody2D>();
         audio = this.GetComponent<AudioSource>();
         internalSpeed = moveSpeed;
+        
     }
 
     void Update()
