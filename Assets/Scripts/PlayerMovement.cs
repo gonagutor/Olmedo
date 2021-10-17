@@ -13,11 +13,15 @@ public class PlayerMovement : MonoBehaviour
 
     private bool run;
     private float internalSpeed;
+    private new AudioSource audio;
+
     void Start()
     {
         animator = this.GetComponent<Animator>();
         rb = this.GetComponent<Rigidbody2D>();
+        audio = this.GetComponent<AudioSource>();
         internalSpeed = moveSpeed;
+        
     }
 
     void Update()
@@ -32,11 +36,16 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
 
-        if(Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
+        if(Input.GetAxisRaw("Horizontal") == 1 || Input.GetAxisRaw("Horizontal") == -1 
+            || Input.GetAxisRaw("Vertical") == 1 || Input.GetAxisRaw("Vertical") == -1)
         {
             animator.SetFloat("lastMoveX", Input.GetAxisRaw("Horizontal"));
             animator.SetFloat("lastMoveY", Input.GetAxisRaw("Vertical"));
+        }
 
+        if ((movement.x != 0 || movement.y != 0) && !audio.isPlaying)
+        {
+            audio.Play();
         }
     }
 
