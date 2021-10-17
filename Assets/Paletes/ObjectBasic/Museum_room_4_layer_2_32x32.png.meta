@@ -1,7 +1,259 @@
 fileFormatVersion: 2
 guid: 40de6a1aa51484d9da78e95be8c1a6c0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6031673796128990987
+    second: Museum_room_4_layer_2_32x32_0
+  - first:
+      213: -9197445260403087622
+    second: Museum_room_4_layer_2_32x32_1
+  - first:
+      213: -9179417186461377808
+    second: Museum_room_4_layer_2_32x32_2
+  - first:
+      213: 7615805668579500357
+    second: Museum_room_4_layer_2_32x32_3
+  - first:
+      213: -8486670793752428598
+    second: Museum_room_4_layer_2_32x32_4
+  - first:
+      213: 4438839270066542815
+    second: Museum_room_4_layer_2_32x32_5
+  - first:
+      213: -8021969144334708610
+    second: Museum_room_4_layer_2_32x32_6
+  - first:
+      213: 4911882596881453989
+    second: Museum_room_4_layer_2_32x32_7
+  - first:
+      213: -1257489435119277154
+    second: Museum_room_4_layer_2_32x32_8
+  - first:
+      213: 1559745770442478182
+    second: Museum_room_4_layer_2_32x32_9
+  - first:
+      213: -2983238454760538968
+    second: Museum_room_4_layer_2_32x32_10
+  - first:
+      213: -9158758084714413941
+    second: Museum_room_4_layer_2_32x32_11
+  - first:
+      213: -1263981462097380026
+    second: Museum_room_4_layer_2_32x32_12
+  - first:
+      213: 6994258576119508350
+    second: Museum_room_4_layer_2_32x32_13
+  - first:
+      213: -6481991567953194604
+    second: Museum_room_4_layer_2_32x32_14
+  - first:
+      213: 3010303330163167598
+    second: Museum_room_4_layer_2_32x32_15
+  - first:
+      213: -4354440111761769358
+    second: Museum_room_4_layer_2_32x32_16
+  - first:
+      213: 7446246566286129890
+    second: Museum_room_4_layer_2_32x32_17
+  - first:
+      213: -2589407442399555165
+    second: Museum_room_4_layer_2_32x32_18
+  - first:
+      213: -3747210609469963635
+    second: Museum_room_4_layer_2_32x32_19
+  - first:
+      213: -7659835363395251947
+    second: Museum_room_4_layer_2_32x32_20
+  - first:
+      213: -2346698928132036327
+    second: Museum_room_4_layer_2_32x32_21
+  - first:
+      213: 7987767467843580665
+    second: Museum_room_4_layer_2_32x32_22
+  - first:
+      213: 6900385803710677645
+    second: Museum_room_4_layer_2_32x32_23
+  - first:
+      213: 4197454844769114796
+    second: Museum_room_4_layer_2_32x32_24
+  - first:
+      213: -8976074816207982174
+    second: Museum_room_4_layer_2_32x32_25
+  - first:
+      213: -474544125292393093
+    second: Museum_room_4_layer_2_32x32_26
+  - first:
+      213: -3549830052783662980
+    second: Museum_room_4_layer_2_32x32_27
+  - first:
+      213: -5834992254427663568
+    second: Museum_room_4_layer_2_32x32_28
+  - first:
+      213: 5237147680966323101
+    second: Museum_room_4_layer_2_32x32_29
+  - first:
+      213: -4485569116083778031
+    second: Museum_room_4_layer_2_32x32_30
+  - first:
+      213: 4951655732228192112
+    second: Museum_room_4_layer_2_32x32_31
+  - first:
+      213: -7378476952932879637
+    second: Museum_room_4_layer_2_32x32_32
+  - first:
+      213: 1856043114531367897
+    second: Museum_room_4_layer_2_32x32_33
+  - first:
+      213: -2003558021262263792
+    second: Museum_room_4_layer_2_32x32_34
+  - first:
+      213: 7810372366299126719
+    second: Museum_room_4_layer_2_32x32_35
+  - first:
+      213: -4420648652742477952
+    second: Museum_room_4_layer_2_32x32_36
+  - first:
+      213: 8192656975159554150
+    second: Museum_room_4_layer_2_32x32_37
+  - first:
+      213: -513762492612074380
+    second: Museum_room_4_layer_2_32x32_38
+  - first:
+      213: -1091870787324130403
+    second: Museum_room_4_layer_2_32x32_39
+  - first:
+      213: 217890493899293724
+    second: Museum_room_4_layer_2_32x32_40
+  - first:
+      213: 6159660750921850043
+    second: Museum_room_4_layer_2_32x32_41
+  - first:
+      213: 7937750795951538664
+    second: Museum_room_4_layer_2_32x32_42
+  - first:
+      213: -1862645665744543233
+    second: Museum_room_4_layer_2_32x32_43
+  - first:
+      213: -728519787019805147
+    second: Museum_room_4_layer_2_32x32_44
+  - first:
+      213: 3526272492920401345
+    second: Museum_room_4_layer_2_32x32_45
+  - first:
+      213: 3308107143563358739
+    second: Museum_room_4_layer_2_32x32_46
+  - first:
+      213: -6345911386553721151
+    second: Museum_room_4_layer_2_32x32_47
+  - first:
+      213: 1544966920094804983
+    second: Museum_room_4_layer_2_32x32_48
+  - first:
+      213: -2465587753268089360
+    second: Museum_room_4_layer_2_32x32_49
+  - first:
+      213: 5335037137884080189
+    second: Museum_room_4_layer_2_32x32_50
+  - first:
+      213: -5139382058158904413
+    second: Museum_room_4_layer_2_32x32_51
+  - first:
+      213: -1537758290766518719
+    second: Museum_room_4_layer_2_32x32_52
+  - first:
+      213: -6384378817158385078
+    second: Museum_room_4_layer_2_32x32_53
+  - first:
+      213: 7745838334382621510
+    second: Museum_room_4_layer_2_32x32_54
+  - first:
+      213: -4758178558754428305
+    second: Museum_room_4_layer_2_32x32_55
+  - first:
+      213: 7984895862457509127
+    second: Museum_room_4_layer_2_32x32_56
+  - first:
+      213: 8924010915812048614
+    second: Museum_room_4_layer_2_32x32_57
+  - first:
+      213: 1952956773712175570
+    second: Museum_room_4_layer_2_32x32_58
+  - first:
+      213: 8482107219052685061
+    second: Museum_room_4_layer_2_32x32_59
+  - first:
+      213: -6702289727660475009
+    second: Museum_room_4_layer_2_32x32_60
+  - first:
+      213: -4044731670466704527
+    second: Museum_room_4_layer_2_32x32_61
+  - first:
+      213: -2492632447045562475
+    second: Museum_room_4_layer_2_32x32_62
+  - first:
+      213: 5081973210366248411
+    second: Museum_room_4_layer_2_32x32_63
+  - first:
+      213: -2844876253546413654
+    second: Museum_room_4_layer_2_32x32_64
+  - first:
+      213: -184668272810788474
+    second: Museum_room_4_layer_2_32x32_65
+  - first:
+      213: -5304082339760615178
+    second: Museum_room_4_layer_2_32x32_66
+  - first:
+      213: 974686511474376087
+    second: Museum_room_4_layer_2_32x32_67
+  - first:
+      213: 4004851433537672068
+    second: Museum_room_4_layer_2_32x32_68
+  - first:
+      213: 5369758945880852623
+    second: Museum_room_4_layer_2_32x32_69
+  - first:
+      213: -4036699137657467315
+    second: Museum_room_4_layer_2_32x32_70
+  - first:
+      213: 5030658321696434527
+    second: Museum_room_4_layer_2_32x32_71
+  - first:
+      213: 8655002122864599035
+    second: Museum_room_4_layer_2_32x32_72
+  - first:
+      213: 5093304881825605772
+    second: Museum_room_4_layer_2_32x32_73
+  - first:
+      213: -1246921487551481334
+    second: Museum_room_4_layer_2_32x32_74
+  - first:
+      213: 7687134997443127485
+    second: Museum_room_4_layer_2_32x32_75
+  - first:
+      213: 958435236427080411
+    second: Museum_room_4_layer_2_32x32_76
+  - first:
+      213: 9026998502715051844
+    second: Museum_room_4_layer_2_32x32_77
+  - first:
+      213: -5041698900160169684
+    second: Museum_room_4_layer_2_32x32_78
+  - first:
+      213: 7207689017338204015
+    second: Museum_room_4_layer_2_32x32_79
+  - first:
+      213: 4900799382577338078
+    second: Museum_room_4_layer_2_32x32_80
+  - first:
+      213: -7226292606905345970
+    second: Museum_room_4_layer_2_32x32_81
+  - first:
+      213: 8601114662031285628
+    second: Museum_room_4_layer_2_32x32_82
+  - first:
+      213: 1867675185995870631
+    second: Museum_room_4_layer_2_32x32_83
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -101,7 +353,1771 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f813bcb3a03b4ca0800000000000000
+      internalID: -6031673796128990987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e29c044c1c5080800000000000000
+      internalID: -9197445260403087622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9adb14b82c9080800000000000000
+      internalID: -9179417186461377808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5416612c7e6c0b960800000000000000
+      internalID: 7615805668579500357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf34bc90e9493a80800000000000000
+      internalID: -8486670793752428598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8de535ccce99d30800000000000000
+      internalID: 4438839270066542815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7019c0c09d3ca090800000000000000
+      internalID: -8021969144334708610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3da8592338a2440800000000000000
+      internalID: 4911882596881453989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ba8ee65008c8ee0800000000000000
+      internalID: -1257489435119277154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662542ba38455a510800000000000000
+      internalID: 1559745770442478182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac76b76e686996d0800000000000000
+      internalID: -2983238454760538968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b804cd01c0e85e080800000000000000
+      internalID: -9158758084714413941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64db10d9e8f657ee0800000000000000
+      internalID: -1263981462097380026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d25d82e19901160800000000000000
+      internalID: 6994258576119508350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491921313075b06a0800000000000000
+      internalID: -6481991567953194604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611d84fdeeb6c920800000000000000
+      internalID: 3010303330163167598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c3ab60acbe193c0800000000000000
+      internalID: -4354440111761769358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf475dcc1665760800000000000000
+      internalID: 7446246566286129890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1950186a3901cd0800000000000000
+      internalID: -2589407442399555165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82c7f3edcb3ffbc0800000000000000
+      internalID: -3747210609469963635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d9de025cc2b590800000000000000
+      internalID: -7659835363395251947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91966e912c9de6fd0800000000000000
+      internalID: -2346698928132036327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2fc35e0304ade60800000000000000
+      internalID: 7987767467843580665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82c253245813cf50800000000000000
+      internalID: 6900385803710677645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa943731fa504a30800000000000000
+      internalID: 4197454844769114796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f79e03839e6380800000000000000
+      internalID: -8976074816207982174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc2bdd1a41a69f0800000000000000
+      internalID: -474544125292393093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d2d2ff587cbec0800000000000000
+      internalID: -3549830052783662980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033feafa571f50fa0800000000000000
+      internalID: -5834992254427663568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b224871161ea840800000000000000
+      internalID: 5237147680966323101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0d5c87ae00c1c0800000000000000
+      internalID: -4485569116083778031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077fc7947a0d7b440800000000000000
+      internalID: 4951655732228192112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2770ddd426a9990800000000000000
+      internalID: -7378476952932879637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba371016df1c910800000000000000
+      internalID: 1856043114531367897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a37cf489ee134e0800000000000000
+      internalID: -2003558021262263792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb59c83944046c60800000000000000
+      internalID: 7810372366299126719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b970d873b6a2c0800000000000000
+      internalID: -4420648652742477952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660f203cc1a22b170800000000000000
+      internalID: 8192656975159554150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47420f82cbfbed8f0800000000000000
+      internalID: -513762492612074380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4beccd45e8d0f0800000000000000
+      internalID: -1091870787324130403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144dc0ff3a160300800000000000000
+      internalID: 217890493899293724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcdc9351d28b7550800000000000000
+      internalID: 6159660750921850043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1044cfa4e882e60800000000000000
+      internalID: 7937750795951538664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff120eeb2ad8626e0800000000000000
+      internalID: -1862645665744543233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e57d21d17c3e5f0800000000000000
+      internalID: -728519787019805147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd60c93626dfe030800000000000000
+      internalID: 3526272492920401345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b6038be1c8ed20800000000000000
+      internalID: 3308107143563358739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cedb5c473bcee7a0800000000000000
+      internalID: -6345911386553721151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbeafd6a33d07510800000000000000
+      internalID: 1544966920094804983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde6eb600978cdd0800000000000000
+      internalID: -2465587753268089360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38e81bb20cd90a40800000000000000
+      internalID: 5335037137884080189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab2c6a6f3f3da8b0800000000000000
+      internalID: -5139382058158904413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14623706bf8c8aae0800000000000000
+      internalID: -1537758290766518719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42febbaa412667a0800000000000000
+      internalID: -6384378817158385078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ca780deebe7b60800000000000000
+      internalID: 7745838334382621510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aef8b8fcd87fdb0800000000000000
+      internalID: -4758178558754428305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705244a2b7c00de60800000000000000
+      internalID: 7984895862457509127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7fa085a478db70800000000000000
+      internalID: 8924010915812048614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1aec6a6db4a1b10800000000000000
+      internalID: 1952956773712175570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507696a539f76b570800000000000000
+      internalID: 8482107219052685061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d3c01c00facf2a0800000000000000
+      internalID: -6702289727660475009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b4f02c9f93ed7c0800000000000000
+      internalID: -4044731670466704527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8c36fef3686dd0800000000000000
+      internalID: -2492632447045562475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd58ee995bbc68640800000000000000
+      internalID: 5081973210366248411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10c65ce18f488d0800000000000000
+      internalID: -2844876253546413654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689f3dd2f2def6df0800000000000000
+      internalID: -184668272810788474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05527d63d1466b0800000000000000
+      internalID: -5304082339760615178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7bc3d738c68d00800000000000000
+      internalID: 974686511474376087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831a320927149730800000000000000
+      internalID: 4004851433537672068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8844b2af47358a40800000000000000
+      internalID: 5369758945880852623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e0dca8583caf7c0800000000000000
+      internalID: -4036699137657467315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59241b071d70d540800000000000000
+      internalID: 5030658321696434527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9897139ebc1870800000000000000
+      internalID: 8655002122864599035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c886af5fdcd0fa640800000000000000
+      internalID: 5093304881825605772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a31b7738b02bee0800000000000000
+      internalID: -1246921487551481334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8221f4d803eaa60800000000000000
+      internalID: 7687134997443127485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2247ff4cb0d4d00800000000000000
+      internalID: 958435236427080411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f4056af47564d70800000000000000
+      internalID: 9026998502715051844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b977ff89480ab0800000000000000
+      internalID: -5041698900160169684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8de929fad60460800000000000000
+      internalID: 7207689017338204015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d9f9a213230440800000000000000
+      internalID: 4900799382577338078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48106a192d07bb90800000000000000
+      internalID: -7226292606905345970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d57c6e63c4d5770800000000000000
+      internalID: 8601114662031285628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Museum_room_4_layer_2_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17811bfa05be910800000000000000
+      internalID: 1867675185995870631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
